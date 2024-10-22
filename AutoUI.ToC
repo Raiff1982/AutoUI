@@ -1,0 +1,11 @@
+## Interface: 90001
+## Title: AutoUI
+## Notes: A simple addon for dynamic UI setup
+## Author: Shalyndrias
+## Version: 3.0
+## SavedVariables: MyAddonDB
+
+AutoUI.lua
+UISpecs.lua
+ActionBars.lua
+CreateUI.lua

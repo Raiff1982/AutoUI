@@ -1,0 +1,78 @@
+{
+  "version": "3.0",
+  "project": {
+    "name": "AutoUI",
+    "author": "Your Name",
+    "description": "Configuration for AutoUI project"
+  },
+  "classes": {
+    "WARRIOR": {
+      "Arms": "CreateArmsWarriorUI",
+      "Fury": "CreateFuryWarriorUI",
+      "Protection": "CreateProtectionWarriorUI"
+    },
+    "PALADIN": {
+      "Holy": "CreateHolyPaladinUI",
+      "Protection": "CreateProtectionPaladinUI",
+      "Retribution": "CreateRetributionPaladinUI"
+    },
+    "HUNTER": {
+      "Beast Mastery": "CreateBeastMasteryHunterUI",
+      "Marksmanship": "CreateMarksmanshipHunterUI",
+      "Survival": "CreateSurvivalHunterUI"
+    },
+    "ROGUE": {
+      "Assassination": "CreateAssassinationRogueUI",
+      "Outlaw": "CreateOutlawRogueUI",
+      "Subtlety": "CreateSubtletyRogueUI"
+    },
+    "PRIEST": {
+      "Discipline": "CreateDisciplinePriestUI",
+      "Holy": "CreateHolyPriestUI",
+      "Shadow": "CreateShadowPriestUI"
+    },
+    "DEATHKNIGHT": {
+      "Blood": "CreateBloodDeathKnightUI",
+      "Frost": "CreateFrostDeathKnightUI",
+      "Unholy": "CreateUnholyDeathKnightUI"
+    },
+    "SHAMAN": {
+      "Elemental": "CreateElementalShamanUI",
+      "Enhancement": "CreateEnhancementShamanUI",
+      "Restoration": "CreateRestorationShamanUI"
+    },
+    "MAGE": {
+      "Arcane": "CreateArcaneMageUI",
+      "Fire": "CreateFireMageUI",
+      "Frost": "CreateFrostMageUI"
+    },
+    "WARLOCK": {
+      "Affliction": "CreateAfflictionWarlockUI",
+      "Demonology": "CreateDemonologyWarlockUI",
+      "Destruction": "CreateDestructionWarlockUI"
+    },
+    "DRUID": {
+      "Balance": "CreateBalanceDruidUI",
+      "Feral": "CreateFeralDruidUI",
+      "Guardian": "CreateGuardianDruidUI",
+      "Restoration": "CreateRestorationDruidUI"
+    },
+    "MONK": {
+      "Brewmaster": "CreateBrewmasterMonkUI",
+      "Mistweaver": "CreateMistweaverMonkUI",
+      "Windwalker": "CreateWindwalkerMonkUI"
+    },
+    "DEMONHUNTER": {
+      "Havoc": "CreateHavocDemonHunterUI",
+      "Vengeance": "CreateVengeanceDemonHunterUI"
+    },
+    "EVOKER": {
+      "Devastation": "CreateDevastationEvokerUI",
+      "Preservation": "CreatePreservationEvokerUI"
+    }
+  },
+  "settings": {
+    "scaling": true,
+    "defaultUI": "CreateDefaultUI"
+  }
+}

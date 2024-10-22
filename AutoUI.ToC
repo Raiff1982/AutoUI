@@ -3,7 +3,7 @@
 ## Notes: A simple addon for dynamic UI setup
 ## Author: Shalyndrias
 ## Version: 3.0
-## SavedVariables: MyAddonDB
+## SavedVariables: AutoUIDB
 
 AutoUI.lua
 UISpecs.lua

@@ -1,0 +1,57 @@
+{
+  "classes": {
+    "WARRIOR": {
+      "Arms": "CreateArmsWarriorUI",
+      "Fury": "CreateFuryWarriorUI",
+      "Protection": "CreateProtectionWarriorUI"
+    },
+    "PALADIN": {
+      "Holy": "CreateHolyPaladinUI",
+      "Protection": "CreateProtectionPaladinUI"
+    },
+    "HUNTER": {
+      "Beast Mastery": "CreateBeastMasteryHunterUI",
+      "Marksmanship": "CreateMarksmanshipHunterUI",
+      "Survival": "CreateSurvivalHunterUI"
+    },
+    "ROGUE": {
+      "Assassination": "CreateAssassinationRogueUI",
+      "Outlaw": "CreateOutlawRogueUI",
+      "Subtlety": "CreateSubtletyRogueUI"
+    },
+    "PRIEST": {
+      "Discipline": "CreateDisciplinePriestUI",
+      "Holy": "CreateHolyPriestUI",
+      "Shadow": "CreateShadowPriestUI"
+    },
+    "DEATHKNIGHT": {
+      "Blood": "CreateBloodDeathKnightUI",
+      "Frost": "CreateFrostDeathKnightUI",
+      "Unholy": "CreateUnholyDeathKnightUI"
+    },
+    "SHAMAN": {
+      "Elemental": "CreateElementalShamanUI",
+      "Enhancement": "CreateEnhancementShamanUI",
+      "Restoration": "CreateRestorationShamanUI"
+    },
+    "MAGE": {
+      "Arcane": "CreateArcaneMageUI",
+      "Fire": "CreateFireMageUI",
+      "Frost": "CreateFrostMageUI"
+    },
+    "WARLOCK": {
+      "Affliction": "CreateAfflictionWarlockUI",
+      "Demonology": "CreateDemonologyWarlockUI",
+      "Destruction": "CreateDestructionWarlockUI"
+    },
+    "DRUID": {
+      "Balance": "CreateBalanceDruidUI",
+      "Feral": "CreateFeralDruidUI",
+      "Guardian": "CreateGuardianDruidUI",
+      "Restoration": "CreateRestorationDruidUI"
+    }
+  },
+  "settings": {
+    "scaling": true
+  }
+}

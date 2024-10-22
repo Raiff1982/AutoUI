@@ -1,0 +1,44 @@
+MyAddon
+Overview
+MyAddon is a powerful World of Warcraft addon that dynamically customizes your UI based on your class and specialization. It also sets up action bars and keybindings automatically.
+
+Features
+Auto-setup UI for all classes and specializations.
+
+Dynamic scaling based on player level.
+
+Automatic action bar and keybinding configurations.
+
+Compatible with World of Warcraft Classic Cataclysm.
+
+Installation
+Download the latest version of the addon from CurseForge.
+
+Extract the contents of the .zip file into your WoW Interface/AddOns directory.
+
+Enable the addon:
+
+Launch WoW and go to the character selection screen.
+
+Click the “AddOns” button and ensure "MyAddon" is enabled.
+
+Reload UI:
+
+Type /reload in the chat to apply the addon.
+
+Usage
+The addon will automatically adjust your UI based on your class and specialization.
+
+It will also scale the UI elements as you level up.
+
+Action bars and keybindings will be set up automatically.
+
+Configuration
+You can customize the addon by editing the AddonConfig.json file located in the addon's directory. This file allows you to define UI setups for each class and specialization, as well as set various settings like scaling.
+
+Support
+If you encounter any issues or have suggestions, please feel free to reach out on the CurseForge project page.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
